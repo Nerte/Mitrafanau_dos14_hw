@@ -1,0 +1,8 @@
+Файл.система           Размер Использовано  Дост Использовано% Cмонтировано в
+tmpfs                    491M         1,7M  489M            1% /run
+/dev/mapper/local-root    14G         9,0G  4,0G           70% /
+tmpfs                    2,4G            0  2,4G            0% /dev/shm
+tmpfs                    5,0M         4,0K  5,0M            1% /run/lock
+/dev/sda1                511M         6,1M  505M            2% /boot/efi
+/dev/mapper/local-home   9,8G         148M  9,1G            2% /home
+tmpfs                    491M         4,7M  486M            1% /run/user/1000
