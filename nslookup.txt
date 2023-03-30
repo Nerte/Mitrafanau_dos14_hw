@@ -1,0 +1,19 @@
+Команда nslookup — инструмент сетевого администрирования для запросов в доменной системе имен (DNS) с целью получения доменного имени, IP-адреса или другой информации из записей DNS.
+
+Example:
+oldman@comp:~$ nslookup google.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.203.142
+Name:	google.com
+Address: 2a00:1450:401b:80e::200e
+
+
+oldman@comp:~$ nslookup 142.250.203.142
+142.203.250.142.in-addr.arpa	name = waw07s06-in-f14.1e100.net.
+
+Authoritative answers can be found from:
+
